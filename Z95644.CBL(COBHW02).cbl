@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID.    COBHW01.
+       PROGRAM-ID.    COBHW02.
        AUTHOR.        MERT MUSA TEMEL.
       *This COBOL program processes account records.
        ENVIRONMENT DIVISION.
